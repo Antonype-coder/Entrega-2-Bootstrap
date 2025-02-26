@@ -2,14 +2,18 @@
     background-color: #FBF5DD;
 }
 
-
+.carousel-item {
+    height: 500px;
+}
+  
+.carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+ 
 .section-bg{
     background-color: #A6CDC6;
-}
-
-.button-color{
-    background-color: rgb(16, 80, 32);
-    color: white;
 }
 
 body{
